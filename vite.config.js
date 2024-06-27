@@ -7,6 +7,9 @@ export default defineConfig({
   plugins: [react(), sentryVitePlugin({
     org: "odum-production-llc",
     project: "javascript-react"
+  }), sentryVitePlugin({
+    org: "odum-production-llc",
+    project: "javascript-react"
   })],
 
   build: {
