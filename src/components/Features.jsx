@@ -82,7 +82,6 @@ const Features = () => {
                   />
                 </div>
               </div>
-
               <div className="feature-text-container">
                 <div className="flex-1 flex-center">
                   <p className="feature-text g_text">
